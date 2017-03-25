@@ -208,10 +208,10 @@ public class Lab4TrainSimulation extends Applet implements Runnable		// the clas
 					manager.getTrainStations()[i].addPassengers(arrivalArray.get(i).get(j).getDestinationTrainStation(),arrivalArray.get(i).get(j).getNumPassengers());
 					arrivalArray.get(i).get(j).addExpectedTimeOfArrival(arrivalArray.get(i).get(j).getTimePeriod());
 					//
-					synchronized (manager)
-					{
-						manager.notifyAll();
-					}
+//					synchronized (manager)
+//					{
+//						manager.notifyAll();
+//					}
 				}
 			}	
 		}

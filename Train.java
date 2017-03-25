@@ -70,15 +70,15 @@ public class Train implements Runnable
 							if (destStation!=currentTrainStation)
 								manager.getTrainStations()[destStation].setApproachingtrain(trainID);				// approaching that station
 							
-							try
-							{
-								manager.wait();
-							}
-							catch (InterruptedException e)
-							{
-								// TODO Auto-generated catch block
-								e.printStackTrace();
-							}
+//							try
+//							{
+//								manager.wait();
+//							}
+//							catch (InterruptedException e)
+//							{
+//								// TODO Auto-generated catch block
+//								e.printStackTrace();
+//							}
 						}
 						System.out.println(movingState);
 											

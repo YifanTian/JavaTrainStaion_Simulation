@@ -1,0 +1,226 @@
+Simulation Time: 40
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  0     PFromStations:    0    0    0    0    0  
+Simulation Time: 60
+Train:    1    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 65
+Train:    1    Current:  4   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 4    TotalP:  4     PFromStations:    4    0    0    0    0  
+Total Passengers through S:   '0'   0  4  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  0  0             '4'   0  0  0  0  0           
+Simulation Time:  80
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '0'   4  0  0  0  0           
+Train:    0    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  0     PFromStations:    0    0    0    0    0  
+Simulation Time: 85
+Train:    1    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Total Passengers through S:   '0'   0  4  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  0  0             '4'   0  0  0  0  0           
+Simulation Time:  95
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0           
+Train:    0    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 95
+Train:    1    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 100
+Train:    1    Current:  0   NumP:   2   [    0      0      0      0      2  ]     loading passengers to 4 at 0    TotalP:  6     PFromStations:    4    0    0    0    2  
+Simulation Time: 100
+Train:    3    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  0     PFromStations:    0    0    0    0    0  
+Total Passengers through S:   '2'   4  4  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  0  0             '8'   0  2  0  0  0           
+Simulation Time:  105
+        Stations:         '4'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '3'   0  0  6  0  0           
+Train:    0    Current:  4   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 4    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 120
+Train:    2    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  0     PFromStations:    0    0    0    0    0  
+Simulation Time: 120
+Train:    3    Current:  4   NumP:   6   [    0      0      6      0      0  ]     loading passengers to 2 at 4    TotalP:  6     PFromStations:    0    0    6    0    0  
+Total Passengers through S:   '2'   4  4  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  6  0             '0'   0  0  0  0  0             '14'   0  2  0  0  0           
+Simulation Time:  125
+        Stations:         '4'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '2'   4  0  0  0  0           
+Train:    0    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 125
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     unloading at 4    TotalP:  6     PFromStations:    4    0    0    0    2  
+Simulation Time: 125
+Train:    3    Current:  4   NumP:   6   [    0      0      6      0      0  ]     travel to 2 from 4    TotalP:  6     PFromStations:    0    0    6    0    0  
+Total Passengers through S:   '2'   4  4  0  0  0             '0'   0  0  0  0  0             '0'   0  0  0  6  0             '0'   0  0  0  0  0             '14'   0  2  0  0  0           
+Simulation Time:  135
+        Stations:         '4'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0           
+Train:    0    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 135
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 4    TotalP:  6     PFromStations:    4    0    0    0    2  
+Simulation Time: 135
+Train:    2    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 135
+Train:    3    Current:  2   NumP:   0   [    0      0      0      0      0  ]     unloading at 2    TotalP:  6     PFromStations:    0    0    6    0    0  
+Simulation Time: 145
+Train:    2    Current:  4   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 4    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 145
+Train:    3    Current:  2   NumP:   0   [    0      0      0      0      0  ]     travel to 2 from 2    TotalP:  6     PFromStations:    0    0    6    0    0  
+Simulation Time: 160
+Train:    1    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  10     PFromStations:    8    0    0    0    2  
+Simulation Time: 165
+Train:    2    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 175
+Train:    2    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 185
+Train:    1    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  10     PFromStations:    8    0    0    0    2  
+Simulation Time: 195
+Train:    1    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 0    TotalP:  10     PFromStations:    8    0    0    0    2  
+Total Passengers through S:   '2'   4  8  4  0  0             '0'   0  0  0  0  0             '0'   0  0  0  6  0             '0'   0  0  0  0  0             '22'   0  2  0  0  0           
+Simulation Time:  200
+        Stations:         '-1'   0  0  0  0  0             '2'   0  0  0  0  1             '-1'   0  0  0  0  0             '0'   4  0  0  0  0             '1'   4  0  6  0  0           
+Train:    0    Current:  3   NumP:   0   [    0      0      0      0      0  ]     travel to 3 from 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 200
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  10     PFromStations:    8    0    0    0    2  
+Simulation Time: 200
+Train:    2    Current:  1   NumP:   0   [    0      0      0      0      0  ]     travel to 1 from 0    TotalP:  4     PFromStations:    4    0    0    0    0  
+Simulation Time: 200
+Train:    3    Current:  2   NumP:   5   [    5      0      0      0      0  ]     loading passengers to 0 at 2    TotalP:  11     PFromStations:    5    0    6    0    0  
+Simulation Time: 200
+Train:    4    Current:  0   NumP:   2   [    0      0      0      0      2  ]     loading passengers to 4 at 0    TotalP:  2     PFromStations:    0    0    0    0    2  
+Simulation Time: 205
+Train:    2    Current:  1   NumP:   1   [    0      0      0      0      1  ]     loading passengers to 4 at 1    TotalP:  5     PFromStations:    4    0    0    0    1  
+Simulation Time: 205
+Train:    3    Current:  2   NumP:   5   [    5      0      0      0      0  ]     travel to 0 from 2    TotalP:  11     PFromStations:    5    0    6    0    0  
+Simulation Time: 210
+Train:    4    Current:  0   NumP:   2   [    0      0      0      0      2  ]     travel to 4 from 0    TotalP:  2     PFromStations:    0    0    0    0    2  
+Simulation Time: 210
+Train:    2    Current:  1   NumP:   1   [    0      0      0      0      1  ]     travel to 4 from 1    TotalP:  5     PFromStations:    4    0    0    0    1  
+Simulation Time: 215
+Train:    3    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  11     PFromStations:    5    0    6    0    0  
+Simulation Time: 225
+Train:    1    Current:  4   NumP:   6   [    0      0      6      0      0  ]     travel to 2 from 4    TotalP:  16     PFromStations:    8    0    6    0    2  
+Simulation Time: 225
+Train:    2    Current:  4   NumP:   0   [    0      0      0      0      0  ]     unloading at 4    TotalP:  5     PFromStations:    4    0    0    0    1  
+Simulation Time: 225
+Train:    3    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  11     PFromStations:    5    0    6    0    0  
+Simulation Time: 225
+Train:    4    Current:  4   NumP:   0   [    0      0      0      0      0  ]     unloading at 4    TotalP:  2     PFromStations:    0    0    0    0    2  
+Total Passengers through S:   '4'   8  8  4  5  0             '1'   0  0  0  0  0             '5'   0  6  0  6  0             '4'   0  0  0  0  0             '28'   0  2  1  0  2           
+Simulation Time:  235
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '3'   4  0  0  0  0           
+Train:    0    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  8     PFromStations:    8    0    0    0    0  
+Simulation Time: 235
+Train:    1    Current:  2   NumP:   0   [    0      0      0      0      0  ]     unloading at 2    TotalP:  16     PFromStations:    8    0    6    0    2  
+Simulation Time: 235
+Train:    2    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 4    TotalP:  5     PFromStations:    4    0    0    0    1  
+Simulation Time: 255
+Train:    3    Current:  4   NumP:   8   [    8      0      0      0      0  ]     travel to 0 from 4    TotalP:  19     PFromStations:    13    0    6    0    0  
+Simulation Time: 275
+Train:    3    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  19     PFromStations:    13    0    6    0    0  
+Total Passengers through S:   '4'   8  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  0  6  0             '4'   0  0  0  0  0             '36'   0  2  1  0  2           
+Simulation Time:  280
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '0'   4  0  0  0  0           
+Train:    0    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  8     PFromStations:    8    0    0    0    0  
+Simulation Time: 285
+Train:    3    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 0    TotalP:  19     PFromStations:    13    0    6    0    0  
+Total Passengers through S:   '4'   12  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  0  6  0             '4'   0  0  0  0  0             '40'   0  2  1  0  2           
+Simulation Time:  300
+        Stations:         '4'   0  0  5  0  2             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '3'   0  0  6  2  0           
+Train:    0    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  12     PFromStations:    12    0    0    0    0  
+Simulation Time: 300
+Train:    3    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  19     PFromStations:    13    0    6    0    0  
+Simulation Time: 300
+Train:    4    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 4    TotalP:  2     PFromStations:    0    0    0    0    2  
+Total Passengers through S:   '4'   12  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  0  6  0             '4'   0  0  0  0  0             '40'   0  2  1  0  2           
+Simulation Time:  305
+        Stations:         '4'   0  0  5  0  2             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '3'   0  0  6  2  0           
+Train:    0    Current:  4   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 4    TotalP:  12     PFromStations:    12    0    0    0    0  
+Simulation Time: 315
+Train:    2    Current:  4   NumP:   6   [    0      0      6      0      0  ]     loading passengers to 2 at 4    TotalP:  11     PFromStations:    4    0    6    0    1  
+Simulation Time: 315
+Train:    3    Current:  4   NumP:   2   [    0      0      0      2      0  ]     loading passengers to 3 at 4    TotalP:  21     PFromStations:    13    0    6    2    0  
+Simulation Time: 315
+Train:    4    Current:  0   NumP:   5   [    0      0      5      0      0  ]     loading passengers to 2 at 0    TotalP:  7     PFromStations:    0    0    5    0    2  
+Simulation Time: 320
+Train:    1    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 2    TotalP:  16     PFromStations:    8    0    6    0    2  
+Total Passengers through S:   '9'   12  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '48'   0  2  1  0  2           
+Simulation Time:  325
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   4  0  0  0  0           
+Train:    0    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  12     PFromStations:    12    0    0    0    0  
+Simulation Time: 325
+Train:    1    Current:  0   NumP:   2   [    0      0      0      0      2  ]     loading passengers to 4 at 0    TotalP:  18     PFromStations:    8    0    6    0    4  
+Simulation Time: 325
+Train:    2    Current:  4   NumP:   6   [    0      0      6      0      0  ]     travel to 2 from 4    TotalP:  11     PFromStations:    4    0    6    0    1  
+Simulation Time: 325
+Train:    3    Current:  4   NumP:   2   [    0      0      0      2      0  ]     travel to 3 from 4    TotalP:  21     PFromStations:    13    0    6    2    0  
+Simulation Time: 325
+Train:    4    Current:  0   NumP:   5   [    0      0      5      0      0  ]     travel to 2 from 0    TotalP:  7     PFromStations:    0    0    5    0    2  
+Simulation Time: 330
+Train:    3    Current:  3   NumP:   0   [    0      0      0      0      0  ]     unloading at 3    TotalP:  21     PFromStations:    13    0    6    2    0  
+Total Passengers through S:   '11'   12  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '48'   0  4  1  0  2           
+Simulation Time:  335
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '0'   4  0  0  0  0           
+Train:    0    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 0    TotalP:  12     PFromStations:    12    0    0    0    0  
+Simulation Time: 335
+Train:    1    Current:  0   NumP:   2   [    0      0      0      0      2  ]     travel to 4 from 0    TotalP:  18     PFromStations:    8    0    6    0    4  
+Simulation Time: 335
+Train:    2    Current:  2   NumP:   0   [    0      0      0      0      0  ]     unloading at 2    TotalP:  11     PFromStations:    4    0    6    0    1  
+Simulation Time: 335
+Train:    4    Current:  2   NumP:   0   [    0      0      0      0      0  ]     unloading at 2    TotalP:  7     PFromStations:    0    0    5    0    2  
+Simulation Time: 340
+Train:    3    Current:  3   NumP:   0   [    0      0      0      0      0  ]     travel to 3 from 3    TotalP:  21     PFromStations:    13    0    6    2    0  
+Simulation Time: 345
+Train:    2    Current:  2   NumP:   0   [    0      0      0      0      0  ]     travel to 2 from 2    TotalP:  11     PFromStations:    4    0    6    0    1  
+Simulation Time: 345
+Train:    4    Current:  2   NumP:   0   [    0      0      0      0      0  ]     travel to 2 from 2    TotalP:  7     PFromStations:    0    0    5    0    2  
+Total Passengers through S:   '11'   12  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '48'   0  4  1  0  2           
+Simulation Time:  355
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0           
+Train:    0    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  16     PFromStations:    16    0    0    0    0  
+Simulation Time: 355
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     unloading at 4    TotalP:  18     PFromStations:    8    0    6    0    4  
+Simulation Time: 360
+Train:    2    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 2    TotalP:  11     PFromStations:    4    0    6    0    1  
+Total Passengers through S:   '11'   16  8  4  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '52'   0  4  1  0  2           
+Simulation Time:  365
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0           
+Train:    0    Current:  4   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 4    TotalP:  16     PFromStations:    16    0    0    0    0  
+Simulation Time: 365
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 4 from 4    TotalP:  18     PFromStations:    8    0    6    0    4  
+Simulation Time: 365
+Train:    2    Current:  4   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 4    TotalP:  15     PFromStations:    8    0    6    0    1  
+Simulation Time: 375
+Train:    2    Current:  4   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 4    TotalP:  15     PFromStations:    8    0    6    0    1  
+Total Passengers through S:   '11'   16  8  8  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '56'   0  4  1  0  2           
+Simulation Time:  385
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0           
+Train:    0    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  16     PFromStations:    16    0    0    0    0  
+Total Passengers through S:   '11'   16  8  8  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '56'   0  4  1  0  2           
+Simulation Time:  395
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0           
+Train:    0    Current:  0   NumP:   0   [    0      0      0      0      0  ]     travel to 0 from 0    TotalP:  16     PFromStations:    16    0    0    0    0  
+Simulation Time: 395
+Train:    2    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  15     PFromStations:    8    0    6    0    1  
+Total Passengers through S:   '11'   16  8  8  13  0             '1'   0  0  0  0  0             '5'   0  6  6  6  5             '4'   0  0  0  2  0             '56'   0  4  1  0  2           
+Simulation Time:  400
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  1             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   4  0  0  0  0           
+Train:    0    Current:  0   NumP:   2   [    0      0      0      0      2  ]     loading passengers to 4 at 0    TotalP:  18     PFromStations:    16    0    0    0    2  
+Simulation Time: 400
+Train:    1    Current:  4   NumP:   6   [    0      0      6      0      0  ]     loading passengers to 2 at 4    TotalP:  24     PFromStations:    8    0    12    0    4  
+Simulation Time: 400
+Train:    3    Current:  3   NumP:   4   [    4      0      0      0      0  ]     loading passengers to 0 at 3    TotalP:  25     PFromStations:    17    0    6    2    0  
+Simulation Time: 400
+Train:    4    Current:  2   NumP:   5   [    5      0      0      0      0  ]     loading passengers to 0 at 2    TotalP:  12     PFromStations:    5    0    5    0    2  
+Simulation Time: 405
+Train:    2    Current:  1   NumP:   0   [    0      0      0      0      0  ]     travel to 1 from 0    TotalP:  15     PFromStations:    8    0    6    0    1  
+Total Passengers through S:   '13'   16  8  8  17  5             '1'   0  0  0  0  0             '10'   0  12  6  6  5             '8'   0  0  0  2  0             '62'   2  4  1  0  2           
+Simulation Time:  405
+        Stations:         '-1'   0  0  0  0  0             '2'   0  0  0  0  1             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   4  0  0  0  0           
+Train:    0    Current:  0   NumP:   2   [    0      0      0      0      2  ]     travel to 4 from 0    TotalP:  18     PFromStations:    16    0    0    0    2  
+Simulation Time: 405
+Train:    1    Current:  4   NumP:   6   [    0      0      6      0      0  ]     travel to 2 from 4    TotalP:  24     PFromStations:    8    0    12    0    4  
+Simulation Time: 405
+Train:    3    Current:  3   NumP:   4   [    4      0      0      0      0  ]     travel to 0 from 3    TotalP:  25     PFromStations:    17    0    6    2    0  
+Simulation Time: 405
+Train:    4    Current:  2   NumP:   5   [    5      0      0      0      0  ]     travel to 0 from 2    TotalP:  12     PFromStations:    5    0    5    0    2  
+Simulation Time: 410
+Train:    2    Current:  1   NumP:   1   [    0      0      0      0      1  ]     loading passengers to 4 at 1    TotalP:  16     PFromStations:    8    0    6    0    2  
+Simulation Time: 415
+Train:    1    Current:  2   NumP:   0   [    0      0      0      0      0  ]     unloading at 2    TotalP:  24     PFromStations:    8    0    12    0    4  
+Simulation Time: 415
+Train:    4    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  12     PFromStations:    5    0    5    0    2  
+Simulation Time: 420
+Train:    2    Current:  1   NumP:   1   [    0      0      0      0      1  ]     travel to 4 from 1    TotalP:  16     PFromStations:    8    0    6    0    2  
+Simulation Time: 420
+Train:    3    Current:  0   NumP:   0   [    0      0      0      0      0  ]     unloading at 0    TotalP:  25     PFromStations:    17    0    6    2    0  
+Total Passengers through S:   '13'   16  8  8  17  5             '2'   0  0  0  0  0             '10'   0  12  6  6  5             '8'   0  0  0  2  0             '62'   2  4  2  0  2           
+Simulation Time:  425
+        Stations:         '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '-1'   0  0  0  0  0             '1'   4  0  0  0  0           
+Train:    0    Current:  4   NumP:   0   [    0      0      0      0      0  ]     unloading at 4    TotalP:  18     PFromStations:    16    0    0    0    2  
+Simulation Time: 425
+Train:    1    Current:  4   NumP:   0   [    0      0      0      0      0  ]     travel to 
